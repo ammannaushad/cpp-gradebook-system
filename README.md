@@ -1,1 +1,1 @@
-# cpp-gradebook-system
+This project is called, “Student Gradebook System” where I used arrays to store student’s names and grades, linear search to search for a specific student, as well as, sorted the student's grades in ascending order. To compile the program, you simply type “g++ main.cpp -o gradebook” and run it with “./gradebook.”
